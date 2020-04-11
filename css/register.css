@@ -1,0 +1,102 @@
+            
+            .class_form{
+				width: 400px;height: 320px;
+				border: 0px solid black;
+				text-align: center;
+				position: absolute;
+				left: 38%;
+				top: 100px;
+			}
+			.class_div_name{
+				position: absolute;
+				left: 45px;
+				top: 30px;
+			}
+			.div_class_name{
+				height: 30px;
+				line-height: 30px;		
+				border: 1px solid gainsboro;		
+				border-radius: 5px;
+				font-size: 16px;
+			}
+			.class_div_psw{
+				position: absolute;
+				left: 45px;
+				top: 80px;
+			}
+			.div_class_psw{
+				height: 30px;			
+				line-height: 30px;		
+				border: 1px solid gainsboro;	
+				border-radius: 5px;
+				font-size: 16px;
+			}
+			
+			.class_div_repsw{
+				position: absolute;
+				left: 45px;
+				top: 130px;
+			}
+			.class_span1{
+				width: 150px;height: 20px;
+				margin: 0px;
+				
+				position: absolute;
+				left: 295px;
+				top: 40px;
+			}
+			.class_span2{
+				width: 150px;height: 20px;
+				border: 0px solid black;
+				margin: 0px;
+				
+				position: absolute;
+				left: 295px;
+				top: 90px;
+			}
+			.class_span3{
+				width: 150px;height: 20px;
+				margin: 0px;
+				
+				position: absolute;
+				left: 295px;
+				top: 140px;
+			}
+			.class_div_gehder{
+				position: absolute;
+				left: 50px;
+				top: 190px;
+			}
+			.class_div_birthday{
+				position: absolute;
+				left: 50px;
+				top: 230px;
+			}
+			.class_div_submit{
+				position: absolute;
+				left: 50px;
+				top: 270px;
+			}
+			.div_class_submit{
+				width: 120px;height: 30px;
+				border: transparent;
+				border-radius: 5px;
+				background-color: red;
+			}
+			.login{
+				width: 120px;height: 30px;
+				border: transparent;
+				border-radius: 5px;
+				background-color: red;
+			}
+			.div_buttom{
+				height: 30px;width: 100%;
+				border: 1px solid black;
+				text-align: center;
+				background: lavender;
+				
+				position: absolute;
+				top: 600px;
+				
+			}
+			

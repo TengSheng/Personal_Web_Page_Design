@@ -1,0 +1,10 @@
+<?php
+    session_name("admin");
+	session_start();
+	unset($_SESSION['adname']);
+	if(!isset($_SESSION['adname']))
+	{
+		$tiaozhuan='login_1.php';//页面地址
+		header('Location:'.$tiaozhuan);//跳转页面
+	}
+?>

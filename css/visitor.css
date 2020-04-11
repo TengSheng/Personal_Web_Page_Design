@@ -1,0 +1,49 @@
+            *{margin: 0px;padding: 0px;}		
+			#id_div_1{
+				width:80%;height: 30px;
+				background-color: lightblue;				
+				line-height: 30px;
+				text-align: center;
+				letter-spacing: 15px;
+				position: absolute;
+				top: 30px;
+				left: 10%;
+			}
+			a{
+				color: white;
+				text-decoration: none;
+				font-size: 20px;
+				font-family: "楷体";
+			}
+			a:hover{
+				color: black;
+				font-size: 25px;
+                /*text-decoration:underline;*/
+			}
+			span{
+				width:100px;
+				margin-left:35px ;
+				margin-right:35px ;
+			}
+			td{
+				width:100px;
+				text-align: center;
+			}
+			#id_span_5{
+				background: lightblue;
+				border: 0px;
+				color: white;
+				font-size: 20px;
+				font-family: "楷体";
+			}
+			#id_span_5:hover{
+				color: black;
+				font-size: 25px;
+			}
+			#id_span_6{
+				background: lightblue;
+				border: 0px;
+				color: black;
+				font-size: 22px;
+				font-family: "楷体";
+			}
